@@ -43,7 +43,7 @@ div {
 
 .nav ol {
     padding: 35px;
-    padding-top: 15px; 
+    padding-top: 15px;
 }
 
 .nav li {
@@ -51,5 +51,29 @@ div {
   float: left;
   color: white;
   padding: 0 15px;
+}
 
+.banner {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background-color: #87a984
+}
+
+.bannerHeading {
+  width:150px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  float: right;
+  padding: 45px 545px 25px 40px;
+  background-color: #87a984
+}
+
+.bannerText {
+  width: 450px;
+  color: white;
+  float: right;
+  padding: 0 233px 45px 50px
 }
