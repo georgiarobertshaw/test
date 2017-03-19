@@ -77,3 +77,8 @@ div {
   float: right;
   padding: 0 233px 45px 50px
 }
+
+.image {
+  width: 160px;
+  float: left;
+}
